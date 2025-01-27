@@ -8,6 +8,7 @@
 <body>
     <h1>CHECKLIST CONNECT TELECOM</h1>
     <form action="https://formspree.io/f/xwpvvdog" method="POST">
+        <input type="hidden" name="Connect Telecom" value="Checklist">
         <label for="nome">Nome Completo:</label><br>
         <input type="text" id="nome" name="nome" required><br><br>
         <label for="cpf">CPF:</label><br>
